@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LVRV11/kolfirsthw/static/css/main.7acaea2f.css",
-    "main.js": "/LVRV11/kolfirsthw/static/js/main.07d3183d.js",
+    "main.js": "/LVRV11/kolfirsthw/static/js/main.ef88981f.js",
     "index.html": "/LVRV11/kolfirsthw/index.html",
     "main.7acaea2f.css.map": "/LVRV11/kolfirsthw/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/LVRV11/kolfirsthw/static/js/main.07d3183d.js.map"
+    "main.ef88981f.js.map": "/LVRV11/kolfirsthw/static/js/main.ef88981f.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.ef88981f.js"
   ]
 }
